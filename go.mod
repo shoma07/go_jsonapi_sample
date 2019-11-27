@@ -1,4 +1,4 @@
-module go_jsonapi_sample
+module github.com/shoma07/go_jsonapi_sample
 
 go 1.13
 
